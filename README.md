@@ -7,4 +7,4 @@ You can load FEN files into any chess engine board software such as [xboard](htt
 
 ![](./snapshot.png)
 
-You can also use chess web apps like [Lichess](https://liches.org) or [Chess.com](https://chess.com), just paste the FEN text within your browser.
+You can also use chess web apps like [Lichess](https://lichess.org) or [Chess.com](https://chess.com), just paste the FEN text within your browser.
